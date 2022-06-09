@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Poppins:ital,wght@0,200;0,300;1,100&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: poppins;
+}
+.card-body{
+    background-image: url(image/3-35666_photo-wallpaper-wall-yellow-clock-winding-timeless-things.jpg);
+    background-size:;
+    background-color: rgb(253, 253, 253);
+    background-blend-mode:color-burn;
+}
+
+h1{
+    font-weight: 900;
+}
